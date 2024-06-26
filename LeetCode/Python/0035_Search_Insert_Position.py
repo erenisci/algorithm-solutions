@@ -1,5 +1,5 @@
 # 35. Search Insert Position
-# https://leetcode.com/problems/search-insert-position/description/?envType=study-plan&id=algorithm-i
+# https://leetcode.com/problems/search-insert-position/
 
 
 class Solution:
