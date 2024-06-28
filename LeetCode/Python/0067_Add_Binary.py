@@ -1,5 +1,5 @@
 # 67. Add Binary
-# https://leetcode.com/problems/add-binary/description/
+# https://leetcode.com/problems/add-binary/
 
 
 class Solution:
