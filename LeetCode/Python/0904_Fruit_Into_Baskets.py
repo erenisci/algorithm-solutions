@@ -1,5 +1,5 @@
 # 904. Fruit Into Baskets
-# https://leetcode.com/problems/fruit-into-baskets/description/
+# https://leetcode.com/problems/fruit-into-baskets/
 
 
 class Solution:
