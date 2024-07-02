@@ -1,5 +1,5 @@
 # 783. Minimum Distance Between BST Nodes
-# https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/
+# https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 
 
 class TreeNode:
