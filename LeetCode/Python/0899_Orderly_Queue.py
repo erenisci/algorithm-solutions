@@ -1,5 +1,5 @@
 # 899. Orderly Queue
-# https://leetcode.com/problems/orderly-queue/submissions/
+# https://leetcode.com/problems/orderly-queue/
 
 
 class Solution:
