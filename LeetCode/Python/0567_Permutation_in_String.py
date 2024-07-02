@@ -8,6 +8,7 @@ class Solution:
         for char in s1:
             s1Count[char] += 1
         s2Count = {char: 0 for char in "abcdefghijklmnopqrstuvwxyz"}
+
         l = 0
         for r in range(len(s2)):
             s2Count[s2[r]] += 1
@@ -16,4 +17,5 @@ class Solution:
                 l += 1
             if s1Count == s2Count:
                 return True
+
         return False
