@@ -1,5 +1,5 @@
 # 322. Coin Change
-# https://leetcode.com/problems/coin-change/description/
+# https://leetcode.com/problems/coin-change/
 
 
 class Solution:
