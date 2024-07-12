@@ -1,0 +1,3 @@
+function ifChuckSaysSo() {
+  return !true;
+}
