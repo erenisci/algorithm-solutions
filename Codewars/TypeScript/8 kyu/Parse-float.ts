@@ -1,3 +1,3 @@
-export function parseF(s: string): number | null {
+export const parseF = (s: string): number | null => {
   return !isNaN(parseFloat(s)) ? parseFloat(s) : null;
-}
+};
