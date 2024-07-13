@@ -1,3 +1,3 @@
-export function typeOfSum(a: any, b: any): string {
+export const typeOfSum = (a: any, b: any): string => {
   return typeof (a + b);
-}
+};
