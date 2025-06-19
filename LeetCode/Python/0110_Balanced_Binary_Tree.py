@@ -24,5 +24,3 @@ class Solution:
                     1 + max(left_height, dright_height))
 
         return depth_first_search(root)[0]
-
-        return depth_first_search(root)[0]
