@@ -1,6 +1,7 @@
 # 110. Balanced Binary Tree
 # https://leetcode.com/problems/balanced-binary-tree/
 
+
 from typing import Optional
 
 
