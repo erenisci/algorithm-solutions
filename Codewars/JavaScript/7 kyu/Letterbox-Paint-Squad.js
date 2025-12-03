@@ -1,4 +1,4 @@
-var paintLetterboxes = function (start, end) {
+function paintLetterboxes(start, end) {
   const counts = Array(10).fill(0);
 
   for (let n = start; n <= end; n++) {
@@ -6,4 +6,4 @@ var paintLetterboxes = function (start, end) {
   }
 
   return counts;
-};
+}
