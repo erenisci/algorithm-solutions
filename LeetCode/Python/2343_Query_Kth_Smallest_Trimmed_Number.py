@@ -3,7 +3,7 @@
 
 
 class Solution:
-    def smallestTrimmedNumbers(self, nums: List[str], queries: List[List[int]]) -> List[int]:
+    def smallestTrimmedNumbers(self, nums: list[str], queries: list[list[int]]) -> list[int]:
         answer = []
 
         for k, trim in queries:
