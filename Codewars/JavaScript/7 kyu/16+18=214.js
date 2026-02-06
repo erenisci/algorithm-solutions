@@ -1,6 +1,6 @@
 function add(num1, num2) {
-  const numStr1 = String(num1),
-    numStr2 = String(num2);
+  const numStr1 = String(num1);
+  const numStr2 = String(num2);
   const maxLength = Math.max(numStr1.length, numStr2.length);
 
   const paddedNumStr1 = numStr1.padStart(maxLength, '0');
