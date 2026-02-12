@@ -1,11 +1,11 @@
-function containAllRots(strng, arr) {
-  if (strng === '') return true;
+function containAllRots(string, arr) {
+  if (string === '') return true;
 
   const rotations = [];
-  const len = strng.length;
+  const len = string.length;
 
   for (let i = 0; i < len; i++) {
-    const rotation = strng.slice(i) + strng.slice(0, i);
+    const rotation = string.slice(i) + string.slice(0, i);
     rotations.push(rotation);
   }
 
