@@ -1,11 +1,7 @@
 function calculate(a, operator, b) {
-  if (!['+', '-', '*', '/'].includes(operator)) {
-    return null;
-  }
+  if (!['+', '-', '*', '/'].includes(operator)) return null;
 
-  if (operator === '/' && b === 0) {
-    return null;
-  }
+  if (operator === '/' && b === 0) return null;
 
   switch (operator) {
     case '+':
